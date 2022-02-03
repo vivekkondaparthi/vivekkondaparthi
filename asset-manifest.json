@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/vivekkondaparthi/static/js/main.d7d6b8a1.js",
+    "main.js": "/vivekkondaparthi/static/js/main.b8a19e19.js",
     "index.html": "/vivekkondaparthi/index.html",
-    "main.d7d6b8a1.js.map": "/vivekkondaparthi/static/js/main.d7d6b8a1.js.map"
+    "main.b8a19e19.js.map": "/vivekkondaparthi/static/js/main.b8a19e19.js.map"
   },
   "entrypoints": [
-    "static/js/main.d7d6b8a1.js"
+    "static/js/main.b8a19e19.js"
   ]
 }
